@@ -21,7 +21,7 @@ logger.setLevel(logging.DEBUG)
 # ghPagesURL = "https://mooooves.github.io/tiktok-rss-flat/"
 
 # Custom Domain
-ghPagesURL = "https://mooooves.github.io/tiktok-rss-flat/"
+# ghPagesURL = "https://mooooves.github.io/tiktok-rss-flat/"
 
 maxItems = 5
 
